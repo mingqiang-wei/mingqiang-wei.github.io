@@ -7,7 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+#title                    : "Your Name / Site Title"
+title                    : "Mingqiang Wei"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,14 +81,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  #name             : "Your Sidebar Name"
+  name             : "Mingqiang Wei"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+ 
+  bio              : "Professor at Nanjing University of Aeronautics and Astronautics"
+  #location         : "Location"
+  location         : "Nanjing,China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=TdrJj8MAAAAJ&hl=en"
+  email            : "mingqiang.wei@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +100,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+ # github           : "academicpages"
+  github           : "https://github.com/mingqiangwei"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +114,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
