@@ -11,6 +11,6 @@ date: 2022-5-16
 
 Hongwei Zhu, Peng Li, Haoran Xie, Xuefeng Yan, Dong Liang, Dapeng Chen,**Mingqiang Wei**, Jing Qin  
 <i>AAAI 2022: 3608-3616</i>    
-[[paper]](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-template/files/Transformers%20in%203D%20Point%20Clouds.pdf) 
-[[arxiv]]((https://arxiv.org/abs/2205.07417)
+[[paper]](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-template/files/Transformers%20in%203D%20Point%20Clouds.pdf)
+[[arxiv]](https://arxiv.org/abs/2205.07417)
  
