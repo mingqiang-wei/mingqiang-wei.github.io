@@ -1,16 +1,21 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Publications
+======
+**[1]** **Mingqiang Wei**, Zeyong Wei, Haoran Zhou, Fei Hu, Huajian Si, Zhilei Chen, Zhe Zhu, Jingbo Qiu,
+Xuefeng Yan, Yanwen Guo, Jun Wang, and Jing Qin. Agconv: Adaptive graph convolution on 3d
+point clouds. **IEEE TPAMI (minor revision), 2022.**
+[[arxiv]](https://arxiv.org/abs/2206.04665) 
 
-{% include base_path %}
+**[2]** Dening Lu, Qian Xie, **Mingqiang Wei**, Linlin Xu, and Jonathan Li. Transformers in 3d point clouds:
+A survey. **CoRR, abs/2205.07417, 2022.**
+[[arxiv]](https://arxiv.org/abs/2205.07417)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**[3]** Peng Li, Hongwei Zhu, **Mingqiang Wei**, and Xiao-Ping Zhang. Findnet: Can you find me? texture-
+and-boundary enhancement network for camouflaged object detection. IEEE TIP (to appear), 2022.
+
+**[4]** Honghua Chen, Zeyong Wei, Yabin Xu, Mingqiang Wei, and Jun Wang. Imlovenet misaligned
