@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-3-1
 #venue: 'Journal 1'
-# paperurl: 'https://mingqiangwei.github.io/files/I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection.pdf'
+# paperurl: 'https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-template/files/I%20can%20find%20you.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 [paper](https://mingqiangwei.github.io/files/I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection.pdf)
