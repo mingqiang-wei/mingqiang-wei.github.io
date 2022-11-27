@@ -13,6 +13,6 @@ date: 2022-6-9
 **Mingqiang Wei**, Zeyong Wei, Haoran Zhou, Fei Hu, Huajian Si, Zhilei Chen, Zhe Zhu, Jingbo Qiu, Xuefeng
 Yan, Yanwen Guo, Jun Wang, and Jing Qin  
 <i> IEEE TPAMI (minor revision), 2022</i>    
-[[paper]](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-template/files/AGConv.pdf)  
+[[paper]](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-template/files/AGConv.pdf)
 [[arxiv]](https://arxiv.org/abs/2206.04665) 
 
