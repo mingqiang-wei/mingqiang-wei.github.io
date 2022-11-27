@@ -8,7 +8,10 @@
 
 main:
   - title: "Professions"
-    url: /talks/    
+    url: /professions/    
+    
+  - title: "Professions"
+    url: /talks/
     
   - title: "Research"
     url: /year-archive/
