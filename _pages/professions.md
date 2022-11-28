@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /professions/
+title:"Mingqiang Wei's Homepage"
 author_profile: true
 ---
 
