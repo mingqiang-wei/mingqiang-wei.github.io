@@ -22,4 +22,4 @@ News
 * post-doctoral positions are open.
 
 
-![cooperation world map](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-patch-1/images/world-map.png)
+![cooperation world map](/images/world-map.png)
