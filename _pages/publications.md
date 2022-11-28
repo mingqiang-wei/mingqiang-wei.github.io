@@ -11,7 +11,7 @@ Publication
 ### Agconv: Adaptive graph convolution on 3d point clouds.  
 **Mingqiang Wei**, Zeyong Wei, Haoran Zhou, Fei Hu, Huajian Si, Zhilei Chen, Zhe Zhu, Jingbo Qiu,Xuefeng Yan, Yanwen Guo, Jun Wang, and Jing Qin.
 *IEEE TPAMI (minor revision), 2022.*  
-[[arxiv]](https://arxiv.org/pdf/2108.08035.pdf) [[code]](https://github.com/hrzhou2/AdaptConv-master)
+[[arxiv]](https://arxiv.org/pdf/2108.08035) [[code]](https://github.com/hrzhou2/AdaptConv-master)
 
 
 ### Transformers in 3d point clouds: A survey.  
