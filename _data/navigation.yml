@@ -11,13 +11,13 @@ main:
     url: /professions/    
     
   - title: "Research"
-    url:/research/
+    url:/research1/
     
   - title: "Publications"
-    url: /publications/
+    url: /publications1/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching1/    
     
   - title: "Group"
     url: /portfolio/   
