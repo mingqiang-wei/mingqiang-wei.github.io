@@ -21,7 +21,7 @@ Dening Lu, Qian Xie, **Mingqiang Wei**, Linlin Xu, and Jonathan Li.
 
 
 ### FindNet: Can you find me? Boundary-and-texture enhancement network for camouflaged object detection.  
-Peng Li, Xuefeng Yan, Hongwei Zhu, **Mingqiang Wei**, Xiao-Ping Zhang, Jing Qin.
+Peng Li, Xuefeng Yan, Hongwei Zhu, **Mingqiang Wei**, Xiao-Ping Zhang, and Jing Qin.
 *IEEE TIP (to appear), 2022.*     
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923635) 
 
