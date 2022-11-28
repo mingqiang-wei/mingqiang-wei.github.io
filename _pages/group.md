@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /group/
+permalink: /group/                  
 author_profile: true
 ---
 
@@ -16,7 +16,7 @@ Office: CMEE 16-417
 Email: mengjiao@nuaa.edu.cn  
 
 
-![chengyuzheng](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-patch-1/images/chengyuzheng.png)  
+![chengyuzheng](/images/chengyuzheng.png)  
 Chengyu Zheng  
 Ph.D. student (Since 2022)  
 Research:  
