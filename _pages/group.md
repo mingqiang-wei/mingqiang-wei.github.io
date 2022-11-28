@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+
 ![mengjiaoma](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-patch-1/images/mengjiaoma1.jpg)
 
 Mengjiao Ma  
@@ -13,6 +14,7 @@ Research:
 3D Point Clouds Processing  
 Office: CMEE 16-417  
 Email: mengjiao@nuaa.edu.cn  
+
 
 ![chengyuzheng](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-patch-1/images/chengyuzheng.png)  
 Chengyu Zheng  
