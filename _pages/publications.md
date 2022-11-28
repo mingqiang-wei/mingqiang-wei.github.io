@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /publications/
-title: "Mingqiang Wei's Homepage"
 author_profile: true
 ---
 {% include base_path %}
