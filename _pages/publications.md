@@ -4,8 +4,6 @@ permalink: /publications1/
 author_profile: true
 ---
 
-Publications
-======
 **[1]** **Mingqiang Wei**, Zeyong Wei, Haoran Zhou, Fei Hu, Huajian Si, Zhilei Chen, Zhe Zhu, Jingbo Qiu,
 Xuefeng Yan, Yanwen Guo, Jun Wang, and Jing Qin. Agconv: Adaptive graph convolution on 3d
 point clouds. **IEEE TPAMI (minor revision), 2022.**
