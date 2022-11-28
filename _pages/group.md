@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-![mengjiaoma](../image/mengjiaoma.jpg)
+![mengjiaoma](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-patch-1/images/mengjiaoma1.jpg)
+
 Mengjiao Ma  
 Ph.D. student (Since 2022)  
 Research:  
@@ -13,7 +14,7 @@ Research:
 Office: CMEE 16-417  
 Email: mengjiao@nuaa.edu.cn  
 
-![chengyuzheng](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-patch-1/images/chengyuzheng.png)
+![chengyuzheng](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-patch-1/images/chengyuzheng.png)  
 Chengyu Zheng  
 Ph.D. student (Since 2022)  
 Research:  
