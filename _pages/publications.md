@@ -20,4 +20,4 @@ A survey. CoRR, abs/2205.07417, 2022.
 [3] Peng Li, Hongwei Zhu, **Mingqiang Wei**, and Xiao-Ping Zhang. Findnet: Can you find me? texture-
 and-boundary enhancement network for camouflaged object detection. IEEE TIP (to appear), 2022.
 
-[4] Honghua Chen, Zeyong Wei, Yabin Xu, **Mingqiang Wei**, and Jun Wang. Imlovenet misaligned image-supported registration network for low-overlap point cloud pairs. SIGGRAPH, 2022.
+[4] Honghua Chen, Zeyong Wei, Yabin Xu, **Mingqiang Wei**, and Jun Wang. [Imlovenet misaligned image-supported registration network for low-overlap point cloud pairs. SIGGRAPH, 2022.](https://dl.acm.org/doi/pdf/10.1145/3528233.3530744)
