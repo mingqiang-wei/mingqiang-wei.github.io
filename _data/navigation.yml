@@ -11,7 +11,7 @@ main:
     url: /professions/    
     
   - title: "Research"
-    url:/research1/
+    url: /research1/
     
   - title: "Publications"
     url: /publications1/
