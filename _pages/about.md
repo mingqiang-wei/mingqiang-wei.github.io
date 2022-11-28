@@ -21,3 +21,5 @@ News
 * Undergraduate students /postgraduate students ar welcomed to apply for my postgraduate/doctoral positions.
 * post-doctoral positions are open.
 
+
+<center>![cooperation world map](https://github.com/mingqiangwei/mingqiangwei.github.io/blob/mingqiangwei-patch-1/images/world-map.png)</center>
