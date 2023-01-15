@@ -20,7 +20,7 @@ Research Interests
 
 News
 ======
-* Undergraduate students /postgraduate students ar welcomed to apply for my postgraduate/doctoral positions.
+* Undergraduate students /postgraduate students are welcomed to apply for my postgraduate/doctoral positions.
 * post-doctoral positions are open.
 
 
