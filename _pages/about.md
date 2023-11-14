@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Mingqiang Wei (Senior Member, IEEE) is now a full Professor at the School of Computer Science and Technology, and also the Dean of Artificial Intelligence Department, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China.   
+Mingqiang Wei (Senior Member, IEEE) is now a full Professor at the School of Computer Science and Technology, and also the Dean of Artificial Intelligence Department, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. He was the recipient of Excellent Youth Fund Project of the National Natural Science Foundation of China （国家优青）.  
 
 He received his Ph.D degree (2014) in Computer Science and Engineering from the Chinese University of Hong Kong (CUHK), supervised by Prof. Pheng-Ann Heng. He was the recipient of CUHK Young Scholar Outstanding Thesis Awards in 2014. He also received several Best Paper Awards, including the recent one on Chinagraph 2022. Before joining NUAA, he ever served as an Assistant Professor at Hefei University of Technology, and a Postdoctoral Fellow at CUHK.  
 
@@ -15,7 +15,7 @@ He is now serving on the Editorial Board of ACM Transactions on Multimedia Compu
 
 Research Interests
 ======
-2D/3D vision (Graph Convolution, Transformer), the 5th multimedia processing (cross-modal data processing), geometric deep learning, 3D point cloud/mesh processing, and computer-aided design.
+Large Language Model, 2D/3D vision (Graph Convolution, Transformer), the 5th multimedia processing (cross-modal data processing), geometric deep learning, 3D point cloud/mesh processing, and computer-aided design.
 
 
 News
