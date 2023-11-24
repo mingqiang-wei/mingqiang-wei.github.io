@@ -15,12 +15,14 @@ AGconv: Adaptive graph convolution on 3d point clouds.
 [[arxiv]](https://arxiv.org/pdf/2108.08035) [[code]](https://github.com/hrzhou2/AdaptConv-master)  
 
 CF-YOLO: Cross Fusion YOLO for Object Detection in Adverse Weather With a High-Quality Real Snow Dataset.
-Qiqi Ding, Peng Li, Xuefeng Yan, Ding Shi, Luming Liang, Weiming Wang, Haoran Xie, Jonathan Li, **Mingqiang Wei**
-*IEEE Transactions on Intelligent Transportation Systems*
+Qiqi Ding, Peng Li, Xuefeng Yan, Ding Shi, Luming Liang, Weiming Wang, Haoran Xie, Jonathan Li, **Mingqiang Wei**.
+*IEEE Transactions on Intelligent Transportation Systems*.
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10159575) [[arxiv]](https://arxiv.org/abs/2206.01381) [[code]](https://github.com/qqding77/CF-YOLO-and-RSOD)
 
 USCFormer: Unified Transformer With Semantically Contrastive Learning for Image Dehazing.
 Yongzhen Wang, Jiamei Xiong, Xuefeng Yan, **Mingqiang Wei**
 *IEEE Transactions on Intelligent Transportation Systems*
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10143384) [[code]](https://github.com/yz-wang/USCFormer)
 
 ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection
 Yiyang Shen, Rongwei Yu, Peng Wu, Haoran Xie, Lina Gong, Jing Qin, **Mingqiang Wei**
