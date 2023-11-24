@@ -153,7 +153,7 @@ Sar-Shipnet: Sar-Ship Detection Neural Network via Bidirectional Coordinate Atte
 *ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 3973-3977.* [[paper]](https://doi.org/10.1109/ICASSP43922.2022.9747359) 
 
 MBA-RainGAN: A Multi-Branch Attention Generative Adversarial Network for Mixture of Rain Removal. Yiyang Shen, Yidan Feng, Weiming Wang, Dong Liang, Jing Qin, Haoran Xie, **Mingqiang Wei**.   
-*ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 3418-3422. *[[paper]](https://doi.org/10.1109/ICASSP43922.2022.9746588) 
+*ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 3418-3422.*[[paper]](https://doi.org/10.1109/ICASSP43922.2022.9746588) 
 
 Towards Robust Part-aware Instance Segmentation for Industrial Bin Picking. Yidan Feng, Biqi Yang, Xianzhi Li, Chi-Wing Fu, Rui Cao, Kai Chen, Qi Dou, **Mingqiang Wei**, Yun-Hui Liu, Pheng-Ann Heng.   
 *2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, 2022, pp. 405-411.* [[paper]](https://doi.org/10.1109/ICRA46639.2022.9811728) 
