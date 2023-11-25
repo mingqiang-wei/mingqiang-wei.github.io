@@ -179,8 +179,136 @@ GeoBi-GNN: Geometry-aware Bi-domain Mesh Denoising via Graph Neural Networks. Yi
 GlassNet: Label Decoupling‐based Three‐stream Neural Network for Robust Image Glass Detection. Chengyu Zheng, Ding Shi, Xuefeng Yan, Dong Liang, **Mingqiang Wei**, Xin Yang, Yanwen Guo, Haoran Xie.   
 *Computer Graphics Forum, 41: 377-388.*[[paper]](https://doi.org/10.1111/cgf.14441) 
 
+2021
+------
 
+Adaptive graph convolution for point cloud analysis. Haoran Zhou, Yidan Feng, Mingsheng Fang, **Mingqiang Wei**, Jing Qin, Tong Lu.    
+*Proceedings of the IEEE/CVF international conference on computer vision, 2021*. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_Adaptive_Graph_Convolution_for_Point_Cloud_Analysis_ICCV_2021_paper.html) [[code]](https://github.com/hrzhou2/AdaptConv-master)
+
+Hyperspectral image classification on insufficient-sample and feature learning using deep neural networks: A review. Naftaly Wambugu, Yiping Chen, Zhenlong Xiao, Kun Tan, **Mingqiang Wei**, Xiaoxue Liu, Jonathan Li.    
+*International Journal of Applied Earth Observation and Geoinformation, 2021*. [[paper]](https://www.sciencedirect.com/science/article/pii/S030324342100310X) 
+
+Venet: Voting enhancement network for 3d object detection. Qian Xie, Yu-Kun Lai, Jing Wu, Zhoutao Wang, Dening Lu, **Mingqiang Wei**, Jun Wang.     
+*Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021*. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Xie_VENet_Voting_Enhancement_Network_for_3D_Object_Detection_ICCV_2021_paper.html) 
+
+A hybrid deep convolutional neural network for accurate land cover classification. Naftaly Wambugu, Yiping Chen, Zhenlong Xiao, **Mingqiang Wei**, Saifullahi Aminu Bello, José Marcato Junior, Jonathan Li.    
+*International Journal of Applied Earth Observation and Geoinformation, 2021.* [[paper]](https://www.sciencedirect.com/science/article/pii/S0303243421002221) 
+
+Convolutional neural network with median layers for denoising salt-and-pepper contaminations. Luming Liang, Seng Deng, Lionel Gueguen, **Mingqiang Wei**, Xinming Wu, Jing Qin.    
+*Neurocomputing, 2021*. [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221002484) 
+
+Anchor retouching via model interaction for robust object detection in aerial images. Dong Liang, Qixiang Geng, Zongqi Wei, Dmitry A Vorontsov, Ekaterina L Kim, **Mingqiang Wei**, Huiyu Zhou.       
+*IEEE Transactions on Geoscience and Remote Sensing, 2021.* [[paper]](https://ieeexplore.ieee.org/abstract/document/9654160) [[code]](https://github.com/QxGeng/DEA-Net)
+
+Easy2hard: Learning to solve the intractables from a synthetic dataset for structure-preserving image smoothing. Yidan Feng, Sen Deng, Xuefeng Yan, Xin Yang, **Mingqiang Wei**, Ligang Liu.      
+*IEEE Transactions on Neural Networks and Learning Systems, 2021*. [[paper]](https://ieeexplore.ieee.org/abstract/document/9451539) [[code]](https://github.com/YidFeng/Easy2Hard)
+
+Building instance extraction method based on improved hybrid task cascade. Xiaoxue Liu, Yiping Chen, **Mingqiang Wei**, Cheng Wang, Wesley Nunes Gonçalves, José Marcato, Jonathan Li.   
+*IEEE Geoscience and Remote Sensing Letters, 2021*. [[paper]](https://ieeexplore.ieee.org/abstract/document/9377457)
+
+GeoDualCNN: Geometry-supporting dual convolutional neural network for noisy point clouds. **Mingqiang Wei**, Honghua Chen, Yingkui Zhang, Haoran Xie, Yanwen Guo, Jun Wang.     
+*IEEE Transactions on Visualization and Computer Graphics, 2021*.[[paper]](https://ieeexplore.ieee.org/abstract/document/9543583)
+
+Aircraft seam feature extraction from 3D raw point cloud via hierarchical multi-structure fitting. Jiajia Dai, **Mingqiang Wei**, Qian Xie, Jun Wang.    
+*Computer-Aided Design, 2021.*[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S001044852030138X) 
+
+Accurate and dense point cloud generation for industrial Measurement via target-free photogrammetry. Nan Ye, Hongyu Zhu, **Mingqiang Wei**, Liyan Zhang.  
+*Optics and Lasers in Engineering, 2021.* [[paper]](https://www.sciencedirect.com/science/article/pii/S014381662031959X) 
+
+Multiscale feature line extraction from raw point clouds based on local surface variation and anisotropic contraction. Honghua Chen, Yaoran Huang, Qian Xie, Yuanpeng Liu, Yuan Zhang, **Mingqiang Wei**, Jun Wang.      
+*IEEE Transactions on Automation Science and Engineering, 2021.* [[paper]](https://ieeexplore.ieee.org/abstract/document/9351738/) 
+
+Cascaded normal filtering neural network for geometry-aware mesh denoising of measurement surfaces. Dingkun Zhu, Yingkui Zhang, Zhiqi Li, Weiming Wang, Haoran Xie, **Mingqiang Wei**, Gary Cheng, Fu Lee Wang.    
+*IEEE Transactions on Instrumentation and Measurement, 2021*.[[paper]](https://ieeexplore.ieee.org/abstract/document/9360624) 
+
+Learning regularizer for monocular depth estimation with adversarial guidance. Guibao Shen, Yingkui Zhang, Jialu Li, **Mingqiang Wei**, Qiong Wang, Guangyong Chen, Pheng-Ann Heng.
+*Proceedings of the 29th ACM International Conference on Multimedia, 2021*.[[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475639) 
+
+Bas-relief modelling from enriched detail and geometry with deep normal transfer. Meili Wang, Li Wang, Tao Jiang, Nan Xiang, Juncong Lin, **Mingqiang Wei**, Xiaosong Yang, Taku Komura, Jianjun Zhang.   
+*Neurocomputing, 2021.* [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231220313710) 
+
+NLKD: Using coarse annotations for semantic segmentation based on knowledge distillation. Dong Liang, Yun Du, Han Sun, Liyan Zhang, Ningzhong Liu, **Mingqiang Wei**.   
+*ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*.[[paper]](https://ieeexplore.ieee.org/abstract/document/9414355) 
+
+基于先验知识的单幅图像雨雾去除方法. 梁楚萍, 冯一箪, 谢浩然, **魏明强**, 燕雪峰.   
+*Journal of Zhejiang University (Science Edition), 2021.* 
+
+基于深度学习的三维点云修复技术综述. 刘彩霞, **魏明强**, 郭延文.   
+*Journal of Computer-Aided Design & Computer Graphics/Jisuanji Fuzhu Sheji Yu Tuxingxue Xuebao, 2021.* 
+
+2020
+------
+Selective guidance normal filter for geometric texture removal. **Mingqiang Wei**, Yidan Feng, Honghua Chen.    
+*IEEE Transactions on Visualization and Computer Graphics.* [[paper]](https://ieeexplore.ieee.org/abstract/document/9127881) 
+
+Automatic facial paralysis assessment via computational image analysis. Chaoqun Jiang, Jianhuang Wu, Weizheng Zhong, **Mingqiang Wei**, Jing Tong, Haibo Yu, Ling Wang.       
+*Journal of Healthcare Engineering.* [[paper]](https://www.hindawi.com/journals/jhe/2020/2398542/)
+
+NormalF-Net: Normal filtering neural network for feature-preserving mesh denoising. Zhiqi Li, Yingkui Zhang, Yidan Feng, Xingyu Xie, Qiong Wang, **Mingqiang Wei**, Pheng-Ann Heng.   
+*Computer-Aided Design.*[[paper]](https://www.sciencedirect.com/science/article/pii/S0010448520300543) 
+
+Normal‐based bas‐relief modelling via near‐lighting photometric stereo. **Mingqiang Wei**, Zhan Song, Y Nie, Jianhuang Wu, Zhongping Ji, Yanwen Guo, Haoran Xie, Jun Wang, Fu Lee Wang.   
+*Computer Graphics Forum.* [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13754) 
+
+三维网格分割中聚类分析技术综述. 梁楚萍， 印杰， 伍静， 汪俊， **魏明强**， 郭延文.    
+*计算机辅助设计与图形学学报.* [[paper]](https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2020.17976) 
+
+自适应深度残差椒盐噪声滤除算法. 邓森， 徐进轩， 梁鹿鸣， 杨珉， 谢浩然， 王富利， 汪俊， **魏明强**， 郭延文.   
+*Journal of Computer-Aided Design & Computer Graphics/Jisuanji Fuzhu Sheji Yu Tuxingxue Xuebao.* [[paper]](https://dds.sciengine.com/cfs/files/pdfs/view/1003-9775/FD6448335C764F54848246B5E8E92BB1.pdf) 
+
+内部结构自支撑的三维打印浮体平衡优化算法. 王继东， 赵瑞斌， **魏明强**.    
+*Journal of Computer-Aided Design & Computer Graphics/Jisuanji Fuzhu Sheji Yu Tuxingxue Xuebao.*     
+
+保持特征的三角网格曲面去噪技术综述与展望. 李智琦， 毛心怡， 汪俊， **魏明强**， 郭延文.   
+*Journal of Computer-Aided Design & Computer Graphics/Jisuanji Fuzhu Sheji Yu Tuxingxue Xuebao.*   
+
+Mba-raingan: Multi-branch attention generative adversarial network for mixture of rain removal from single images.Yiyang Shen, Yidan Feng, Sen Deng, Dong Liang, Jing Qin, Haoran Xie, **Mingqiang Wei**.  
+*Journal of Computer-Aided Design & Computer Graphics/Jisuanji Fuzhu Sheji Yu Tuxingxue Xuebao.* [[paper]](https://arxiv.org/abs/2005.10582) [[code]](https://github.com/syy-whu/MBA-RainGAN)
+
+视觉图像显著性检测综述. 袁野， 和晓歌， 朱定坤， 王富利， 谢浩然， 汪俊， **魏明强**， 郭延文.   
+*计算机科学.* [[paper]](https://www.jsjkx.com/CN/10.11896/jsjkx.190900006)
+
+Detail-recovery image deraining via context aggregation networks. Sen Deng, **Mingqiang Wei**, Jun Wang, Yidan Feng, Luming Liang, Haoran Xie, Fu Lee Wang, Meng Wang.   
+*Proceedings of the IEEE/CVF conference on computer vision and pattern recognition*. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_Detail-recovery_Image_Deraining_via_Context_Aggregation_Networks_CVPR_2020_paper.html) 
+
+Geometry and learning co-supported normal estimation for unstructured point cloud. Haoran Zhou, Honghua Chen, Yidan Feng, Qiong Wang, Jing Qin, Haoran Xie, Fu Lee Wang, **Mingqiang Wei**, Jun Wang.  
+*Proceedings of the IEEE/CVF conference on computer vision and pattern recognition.* [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_Geometry_and_Learning_Co-Supported_Normal_Estimation_for_Unstructured_Point_Cloud_CVPR_2020_paper.html) 
+
+2019
+------
+Robust low-rank subspace segmentation with finite mixture noise. Xianglin Guo, Xingyu Xie, Guangcan Liu, **Mingqiang Wei**, Jun Wang.   
+Pattern Recognition. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301360)
+
+Multi-patch collaborative point cloud denoising via low-rank recovery with graph constraint. Honghua Chen, **Mingqiang Wei**, Yangxing Sun, Xingyu Xie, Jun Wang.   
+*IEEE transactions on visualization and computer graphics.* [[paper]](https://ieeexplore.ieee.org/abstract/document/8730533)
+
+Structure-guided shape-preserving mesh texture smoothing via joint low-rank matrix recovery. Honghua Chen, Jin Huang, Oussama Remil, Haoran Xie, Jing Qin, Yanwen Guo, **Mingqiang Wei**, Jun Wang.   
+*Computer-Aided Design.* [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010448519302088) 
+
+Hierarchical tunnel modeling from 3D raw LiDAR point cloud. Cheng Yi, Dening Lu, Qian Xie, Shuya Liu, Hu Li, **Mingqiang Wei**, Jun Wang
+*Computer-Aided Design.* [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010448519302064) 
+
+Data-driven geometry-recovering mesh denoising.Jun Wang, Jin Huang, Fu Lee Wang, **Mingqiang Wei**, Haoran Xie, Jing Qin.   
+*Computer-Aided Design.* [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S001044851930209X)
+
+Mesh defiltering via cascaded geometry recovery. **Mingqiang Wei**, Xianglin Guo, Jin Huang, Haoran Xie, Hua Zong, Reggie Kwan, Fu Lee Wang, Jing Qin.  
+*Computer Graphics Forum.* [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13863) 
+
+Reliable Rolling‐guided Point Normal Filtering for Surface Texture Removal. Yangxing Sun, Honghua Chen, Jing Qin, Hongwei Li, **Mingqiang Wei**, Hua Zong.  
+*Computer Graphics Forum.* [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13874) 
+
+Computer‐assisted relief modelling: A comprehensive survey. Yu‐Wei Zhang, Jing Wu, Zhongping Ji, Mingqiang Wei, Caiming Zhang.   
+*Computer Graphics Forum.* [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13655) 
+
+Surface reconstruction from normals: A robust dgp-based discontinuity preservation approach. Wuyuan Xie, Miaohui Wang, **Mingqiang Wei**, Jianmin Jiang, Jing Qin.   
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.* [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Xie_Surface_Reconstruction_From_Normals_A_Robust_DGP-Based_Discontinuity_Preservation_Approach_CVPR_2019_paper.html) 
+
+
+
+2018 and previous
+--------
 [[paper]]() [[code]]()
+
 
 [[paper]]() [[code]]()
 
