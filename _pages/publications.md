@@ -307,64 +307,59 @@ Surface reconstruction from normals: A robust dgp-based discontinuity preservati
 
 2018 and previous
 --------
-Mesh denoising guided by patch normal co-filtering via kernel low-rank recovery. Mingqiang Wei, Jin Huang, Xingyu Xie, Ligang Liu, Jun Wang, Jing Qin.  
-IEEE transactions on visualization and computer graphics. [[paper]](https://ieeexplore.ieee.org/abstract/document/8434353) 
+Mesh denoising guided by patch normal co-filtering via kernel low-rank recovery. **Mingqiang Wei**, Jin Huang, Xingyu Xie, Ligang Liu, Jun Wang, Jing Qin.   
+*IEEE transactions on visualization and computer graphics.* [[paper]](https://ieeexplore.ieee.org/abstract/document/8434353) 
 
-Bas-relief modeling from normal layers. Mingqiang Wei, Yang Tian, Wai-Man Pang, Charlie CL Wang, Ming-Yong Pang, Jun Wang, Jing Qin, Pheng-Ann Heng.   
-IEEE transactions on visualization and computer graphics. [[paper]](https://ieeexplore.ieee.org/abstract/document/8322258) 
+Bas-relief modeling from normal layers. **Mingqiang Wei**, Yang Tian, Wai-Man Pang, Charlie CL Wang, Ming-Yong Pang, Jun Wang, Jing Qin, Pheng-Ann Heng.   
+*IEEE transactions on visualization and computer graphics.* [[paper]](https://ieeexplore.ieee.org/abstract/document/8322258) 
 
-Modeling indoor scenes with repetitions from 3D raw point data. Jun Wang, Qiaoyun Wu, Oussama Remil, Cheng Yi, Yanwen Guo, Mingqiang Wei.   
-Computer-Aided Design. [[paper]](https://doi.org/10.1016/j.cad.2017.09.001) 
+Modeling indoor scenes with repetitions from 3D raw point data. Jun Wang, Qiaoyun Wu, Oussama Remil, Cheng Yi, Yanwen Guo, **Mingqiang Wei**.   
+*Computer-Aided Design.* [[paper]](https://doi.org/10.1016/j.cad.2017.09.001) 
 
 
 Object detection and tracking under occlusion for object-level RGB-D video segmentation. Qian Xie, Oussama Remil, Yanwen Guo, Meng Wang, Mingqiang Wei, Jun Wang.   
-IEEE Transactions on Multimedia.  [[paper]](https://ieeexplore.ieee.org/abstract/document/8036283) 
+*IEEE Transactions on Multimedia.*  [[paper]](https://ieeexplore.ieee.org/abstract/document/8036283) 
 
-Urban building reconstruction from raw LiDAR point data. Cheng Yi, Yuan Zhang, Qiaoyun Wu, Yabin Xu, Oussama Remil, Mingqiang Wei, Jun Wang.  
-Computer-Aided Design. [[paper]](https://doi.org/10.1016/j.cad.2017.07.005) 
-
-
-机载 LiDAR 点云中精细建筑物顶面的渐进提取. 赵瑞斌， 庞明勇， 张燕玲， 魏明强， 游国忠.   
-计算机辅助设计与图形学学报. [[paper]](http://www.cqvip.com/qk/97390x/201704/7000169262.html) 
-
-Tensor voting guided mesh denoising. Mingqiang Wei, Luming Liang, Wai-Man Pang, Jun Wang, Weishi Li, Huisi Wu.  
-IEEE Transactions on Automation Science and Engineering. [[paper]](https://ieeexplore.ieee.org/abstract/document/7467494) 
-
-Non‐Local Sparse and Low‐Rank Regularization for Structure‐Preserving Image Smoothing. Lei Zhu, Chi‐Wing Fu, Yueming Jin, Mingqiang Wei, Jing Qin, Pheng‐Ann Heng.   
-Computer Graphics Forum. [[paper]](https://doi.org/10.1111/cgf.13019)
-
-Automatic modeling of urban facades from raw lidar point data. Jun Wang, Yabin Xu, Oussama Remil, Xingyu Xie, Nan Ye, C Yi, Mingqiang Wei.
-Computer Graphics Forum. [[paper]](https://doi.org/10.1111/cgf.13024) 
-
-Spin contour. Luming Liang, Mingqiang Wei, Andrzej Szymczak, Wai-Man Pang, Meng Wang.  
-IEEE Transactions on Multimedia. [[paper]](https://ieeexplore.ieee.org/abstract/document/7577825)
-
-Morphology-preserving smoothing on polygonized isosurfaces of inhomogeneous binary volumes. Mingqiang Wei, Lei Zhu, Jinze Yu, Jun Wang, Wai-Man Pang, Jianhuang Wu, Jing Qin, Pheng-Ann Heng.   
-Computer-Aided Design. [[paper]](https://doi.org/10.1016/j.cad.2014.08.015) 
-
-Bi-normal filtering for mesh denoising. Mingqiang Wei, Jinze Yu, Wai-Man Pang, Jun Wang, Jing Qin, Ligang Liu, Pheng-Ann Heng.  
-IEEE transactions on visualization and computer graphics. [[paper]](https://ieeexplore.ieee.org/abstract/document/6822598) 
-
-Robust reconstruction of 2D curves from scattered noisy point data. Jun Wang, Zeyun Yu, Weizhong Zhang, Mingqiang Wei, Changbai Tan, Ning Dai, Xi Zhang.  
-Computer-Aided Design.[[paper]](https://doi.org/10.1016/j.cad.2014.01.003)
+Urban building reconstruction from raw LiDAR point data. Cheng Yi, Yuan Zhang, Qiaoyun Wu, Yabin Xu, Oussama Remil, **Mingqiang Wei**, Jun Wang.  
+*Computer-Aided Design.* [[paper]](https://doi.org/10.1016/j.cad.2017.07.005) 
 
 
-Feature-preserving Surface Mesh Smoothing, Denoising and Applications in Biomedical Modeling. Mingqiang Wei.
-The Chinese University of Hong Kong (Hong Kong). [[paper]](https://www.proquest.com/openview/bd8a60420bbaa09fdcea4b7a1a9fa9d5/1?pq-origsite=gscholar&cbl=18750)
+机载 LiDAR 点云中精细建筑物顶面的渐进提取. 赵瑞斌， 庞明勇， 张燕玲， **魏明强**， 游国忠.   
+*计算机辅助设计与图形学学报.* [[paper]](http://www.cqvip.com/qk/97390x/201704/7000169262.html) 
 
-Coarse‐to‐Fine Normal Filtering for Feature‐Preserving Mesh Denoising Based on Isotropic Subneighborhoods. Lei Zhu, Mingqiang Wei, Jinze Yu, Weiming Wang, Jing Qin, Pheng‐Ann Heng.   
-Computer Graphics Forum.[[paper]](https://doi.org/10.1111/cgf.12245)
+Tensor voting guided mesh denoising. **Mingqiang Wei**, Luming Liang, Wai-Man Pang, Jun Wang, Weishi Li, Huisi Wu.  
+*IEEE Transactions on Automation Science and Engineering.* [[paper]](https://ieeexplore.ieee.org/abstract/document/7467494) 
 
-Feature-preserving optimization for noisy mesh using joint bilateral filter and constrained Laplacian smoothing
-Mingqiang Wei, Wuyao Shen, Jing Qin, Jianhuang Wu, Tien-Tsin Wong, Pheng-Ann Heng
-Optics and Lasers in Engineering
-Paper：https://doi.org/10.1016/j.optlaseng.2013.04.018
+Non‐Local Sparse and Low‐Rank Regularization for Structure‐Preserving Image Smoothing. Lei Zhu, Chi‐Wing Fu, Yueming Jin, **Mingqiang Wei**, Jing Qin, Pheng‐Ann Heng.   
+*Computer Graphics Forum.* [[paper]](https://doi.org/10.1111/cgf.13019)
 
-An integrated approach to filling holes in meshes
-Mingqiang Wei, Jianhuang Wu, Mingyong Pang
-2010 International Conference on Artificial Intelligence and Computational Intelligence
-Paper：https://ieeexplore.ieee.org/abstract/document/5655553
+Automatic modeling of urban facades from raw lidar point data. Jun Wang, Yabin Xu, Oussama Remil, Xingyu Xie, Nan Ye, C Yi, **Mingqiang Wei**.
+*Computer Graphics Forum.* [[paper]](https://doi.org/10.1111/cgf.13024) 
 
+Spin contour. Luming Liang, **Mingqiang Wei**, Andrzej Szymczak, Wai-Man Pang, Meng Wang.  
+*IEEE Transactions on Multimedia.* [[paper]](https://ieeexplore.ieee.org/abstract/document/7577825)
+
+Morphology-preserving smoothing on polygonized isosurfaces of inhomogeneous binary volumes. **Mingqiang Wei**, Lei Zhu, Jinze Yu, Jun Wang, Wai-Man Pang, Jianhuang Wu, Jing Qin, Pheng-Ann Heng.   
+*Computer-Aided Design.* [[paper]](https://doi.org/10.1016/j.cad.2014.08.015) 
+
+Bi-normal filtering for mesh denoising. **Mingqiang Wei**, Jinze Yu, Wai-Man Pang, Jun Wang, Jing Qin, Ligang Liu, Pheng-Ann Heng.  
+*IEEE transactions on visualization and computer graphics.* [[paper]](https://ieeexplore.ieee.org/abstract/document/6822598) 
+
+Robust reconstruction of 2D curves from scattered noisy point data. Jun Wang, Zeyun Yu, Weizhong Zhang, **Mingqiang Wei**, Changbai Tan, Ning Dai, Xi Zhang.  
+*Computer-Aided Design.*[[paper]](https://doi.org/10.1016/j.cad.2014.01.003)
+
+
+Feature-preserving Surface Mesh Smoothing, Denoising and Applications in Biomedical Modeling. **Mingqiang Wei**.
+*The Chinese University of Hong Kong (Hong Kong).* [[paper]](https://www.proquest.com/openview/bd8a60420bbaa09fdcea4b7a1a9fa9d5/1?pq-origsite=gscholar&cbl=18750)
+
+Coarse‐to‐Fine Normal Filtering for Feature‐Preserving Mesh Denoising Based on Isotropic Subneighborhoods. Lei Zhu, **Mingqiang Wei**, Jinze Yu, Weiming Wang, Jing Qin, Pheng‐Ann Heng.   
+*Computer Graphics Forum.*[[paper]](https://doi.org/10.1111/cgf.12245)
+
+Feature-preserving optimization for noisy mesh using joint bilateral filter and constrained Laplacian smoothing. **Mingqiang Wei**, Wuyao Shen, Jing Qin, Jianhuang Wu, Tien-Tsin Wong, Pheng-Ann Heng.
+*Optics and Lasers in Engineering.* [[paper]](https://doi.org/10.1016/j.optlaseng.2013.04.018)
+
+An integrated approach to filling holes in meshes. **Mingqiang Wei**, Jianhuang Wu, Mingyong Pang.
+*2010 International Conference on Artificial Intelligence and Computational Intelligence.* [[paper]](https://ieeexplore.ieee.org/abstract/document/5655553)
 
 
 [Full Pulications List](https://scholar.google.com/citations?user=TdrJj8MAAAAJ&hl=en)
