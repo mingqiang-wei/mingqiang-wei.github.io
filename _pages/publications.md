@@ -65,6 +65,9 @@ ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part S
 Shanshan Li, Pan Gao, Xiaoyang Tan, **Mingqiang Wei**.   
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Li_ProxyFormer_Proxy_Alignment_Assisted_Point_Cloud_Completion_With_Missing_Part_CVPR_2023_paper.html) [[code]](https://github.com/I2-Multimedia-Lab/ProxyFormer)  
 
+基于曲率指导的B样条飞机进气道几何设计，**魏明强**，何雪滟，吴梦，郭延文，谭慧俊.   
+*计算机辅助设计与图形学学报*.
+
 融合图像信息的跨模态Transformer点云补全算法. 何星， 朱哲， 燕雪峰， 郭延文， 宫丽娜， **魏明强**.      
 *计算机辅助设计与图形学学报*. [[paper]](https://www.jcad.cn/cn/article/id/949c083d-727e-4935-92d7-31ce59c87cce) [[code]](https://github.com/Star-XingHe/ImPoinTr)
 
